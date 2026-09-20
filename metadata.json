@@ -1,0 +1,6 @@
+{
+  "name": "Tourist Discovery & Itinerary Guide",
+  "description": "Real-time discovery for local attractions, hidden gems, and restaurants with interactive map, user reviews, itinerary planning, and offline accessibility.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
